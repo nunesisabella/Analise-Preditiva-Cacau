@@ -1,2 +1,2 @@
 # Analise-Preditiva-Cacau
-Analise preditiva do preço da semente de cacau
+Arquivos para analise preditiva do preço do cacau.
